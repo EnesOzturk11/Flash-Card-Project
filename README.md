@@ -2,16 +2,7 @@
 
 A simple flash card application built with Python's Tkinter library to help users learn French vocabulary. This project allows users to review French words along with their English translations, mark words as known or unknown, and review unknown words later.
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [File Structure](#file-structure)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
